@@ -126,7 +126,7 @@ run().catch(console.dir);
 
 
 app.get("/", (req, res) => {
-    res.send("my DigitalDynamo server is running...");
+    res.send("my OdysseyApp server is running...");
 });
 
 
